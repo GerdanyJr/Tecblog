@@ -22,6 +22,38 @@ Layout
     padding: 10px;
 }
 
+#area-principal{
+    width: 920px;
+    margin: 0 auto;
+}
+
+#area-postagens, #area-lateral{
+    background: orange;
+}
+
+#area-postagens{
+    width: 660px;
+    float: left;
+}
+
+#area-lateral{
+    width: 240px;
+    float: right;
+}
+
+#rodape{
+    text-align: center;
+    padding: 15px;
+    background: #CCC;
+    clear: both;
+}
+
+.postagem{
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #FFF;
+}
+
 /*
 Formatação do menu
 */
